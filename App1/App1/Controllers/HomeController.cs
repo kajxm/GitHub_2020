@@ -10,7 +10,7 @@ namespace App1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.m = "Hello to Git och GitHub";
+            ViewBag.m = "Hello to Git och GitHub!";
             return View();
         }
 
